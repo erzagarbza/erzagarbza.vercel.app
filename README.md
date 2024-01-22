@@ -29,12 +29,12 @@
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/FIQTOR/portfolio-fiqtor.xyz.git
+   git clone https://github.com/erzagarbza/personal-web2
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd portfolio-fiqtor.xyz
+   cd portfolio-erzagarbza
    ```
 3. Install the dependencies:
    ```bash
