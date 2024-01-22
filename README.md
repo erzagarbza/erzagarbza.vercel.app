@@ -2,7 +2,7 @@
 
 😁🖐️Hello website developers, I am here to share the portfolio project that I made for your learning materials (website-developer), don't forget to add it to my favorites so that I can share other projects. 🔥
 
-<a href="https://fiqtor.xyz"><img alt="Website" src="https://img.shields.io/badge/Live_Demo-fiqtor.xyz-white?style=flat&logo=email"></a>
+<a href="https://fiqtor.xyz"><img alt="Website" src="https://img.shields.io/badge/Live_Demo-erzagarbza.netlify.app-white?style=flat&logo=email"></a>
 
 <img src="/public/img/projects/personal-website.webp">
 
