@@ -41,7 +41,7 @@ export default async function About() {
           </div>
           <div>
             <h3 className='font-semibold'>Expected year of Graduation</h3>
-            <p>2024 June</p>
+            <p>2024 July</p>
           </div>
         </div>
       </div>
