@@ -53,7 +53,7 @@ export default function Navbar() {
             <div className='flex flex-col'>
               <h2 className='text-4xl font-medium'>{METADATA.creator}</h2>
               <p>Full-stack Website Developer</p>
-              <p>@fiqtor</p>
+              <p>@erzagarbza</p>
             </div>
           </Link>
         </li>
@@ -73,11 +73,11 @@ export default function Navbar() {
             Let's Talk
           </Link>
           <div className='flex gap-4 my-2'>
-            {brandLink(TbBrandInstagram, 'https://www.instagram.com/fiqtorr')}
-            {brandLink(TbBrandGithub, 'https://www.github.com/fiqtor')}
-            {brandLink(TbBrandYoutube, 'https://www.youtube.com/@fiqtor')}
-            {brandLink(TbBrandLinkedin, 'https://www.linkedin.com/in/taufiiqul-hakim2007')}
-            {brandLink(TbBrandTiktok, 'https://www.tiktok.com/@fiqtor')}
+            {brandLink(TbBrandInstagram, 'https://www.instagram.com/erzagarbza')}
+            {brandLink(TbBrandGithub, 'https://www.github.com/erzagarbza')}
+            {brandLink(TbBrandYoutube, 'https://www.youtube.com/@erzagarbza')}
+            {brandLink(TbBrandLinkedin, 'https://www.linkedin.com/in/erzagarbza')}
+            {brandLink(TbBrandTiktok, 'https://www.tiktok.com/@erzagarbza1')}
           </div>
         </li>
       </ul>
